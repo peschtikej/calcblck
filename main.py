@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-d
 
 # Form implementation generated from reading ui file 'calculator.ui'
 #
